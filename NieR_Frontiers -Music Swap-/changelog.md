@@ -4,4 +4,3 @@
   - Replaced the Arcade Mode track with Significance (Marina Kawano)
   - Replaced Wretched Weaponry (Med.+Dyn.) with Wretched Machinery 
   - Added update compatibility for whenever I wanna further work on this mod
-  - Removed version of mod in folder title
