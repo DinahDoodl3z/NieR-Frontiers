@@ -1,4 +1,2 @@
-add raw/general/resident_general/bgm.acb
-add raw/general/resident_general/bgm.awb
 add raw/text/text_dlc_common_en.pac
 add mod.ini
